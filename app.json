@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "wateraiCollector",
+    "slug": "wateraiCollector",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "userInterfaceStyle": "automatic"
+  },
+  "name": "wateraiCollector"
+}
